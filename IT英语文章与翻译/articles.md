@@ -159,7 +159,9 @@ typora-copy-images-to: mdImage
 
 ### 3rd
 
-	#### GitHub对一名犹太雇员发表公开道歉，该雇员在对纳粹发表评论后被解雇。
+#### GitHub对一名犹太雇员发表公开道歉
+
+
 
 [英文原文地址](https://developer-tech.com/news/2021/jan/18/github-sincerely-apologises-jewish-employee-fired-nazis-remark/)
 
@@ -525,3 +527,197 @@ Employees are free to express concerns about Nazis, antisemitism, white supremac
 **reinstatement**
 
 > - riːɪnˈsteɪtmənt	n. 恢复；复原；复职 
+
+
+
+
+
+### 5th
+
+
+
+#### 谷歌为Fuchia操作系统寻求公共帮助
+
+![20210205_1](/mdImage/20210205_1.jpg)
+
+Google is calling for more public help in developing its **mysterious** Fuchsia OS, despite still not **revealing** what it’s for.
+
+> Google仍在寻求开发其神秘的Fuchsia操作系统的更多公共帮助，尽管仍未透露其用途。 
+
+
+
+We still know very little about the purpose of Fuchsia. We know the OS is based on a **microkernel** called Zircon rather than Google’s go-to of a Linux kernel, but why it’s being developed is still just **guesswork**.
+
+In [a blog post](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html), Google wrote:
+
+> 我们对Fuchsia的目的还知之甚少。我们知道该操作系统基于称为Zircon的微内核，而不是Google的Linux内核，但是为什么要开发它仍然只是猜测。Google在博客中写道：
+
+
+
+“Fuchsia is an open source project that is inclusive by design, from the **architecture** of the platform itself, to the open source community that we’re building.The project is still **evolving** rapidly, but the **underlying** principles and values of the system have remained **relatively constant** throughout the project.”
+
+>“Fuchsia是一个开放源代码项目，从平台本身的架构到我们正在建立的开放源代码社区，其设计都具有包容性。该项目仍在迅速发展，但是系统的基本原理和价值在整个项目中一直保持相对恒定。”
+
+
+
+It’s a weird situation because the **repositories** for Fuchsia OS have been public for years. Google hasn’t ever really tried to **cover up** its existence—but similarly hasn’t given anything away about what the intention for it is. Executives at Google have been annoyingly impressively **tight-lipped**.
+
+> 这是一个奇怪的情况，因为Fuchsia OS的存储库已经公开了很多年。 Google从未真正尝试掩盖其存在，但同样也没有透露其意图。 Google的高管令人讨厌地守口如瓶。
+
+
+
+Google is now calling for extra hands **on deck** to help with Fuchsia’s development; so it’s not just some project which has since been abandoned. 
+
+> 谷歌现在呼吁更多的人来帮助Fuchsia的发展。因此，这不仅仅是一些被放弃的项目。
+
+
+
+Google has “created new public mailing lists for project discussions, added a **governance** model to clarify how **strategic** decisions are made and opened up the issue tracker for public contributors to see what’s being worked on.”
+
+> Google“为项目讨论创建了新的公共邮件列表，添加了治理模型以阐明如何制定战略决策，并为公共贡献者打开了问题追踪器，以查看正在开展的工作。”
+
+
+
+**At a guess**, Fuchsia appears to be a lightweight OS designed for **IoT**/edge devices. The OS has been [tested](https://9to5google.com/2020/03/06/fuchsia-friday-nelson-luis-hint-made-by-google/) on Google’s own IoT devices like smart speakers, but those released so far haven’t used Fuchsia when they hit the market.
+
+> 猜测，Fuchsia似乎是为物联网/边缘设备设计的轻量级操作系统。该操作系统已经在Google自己的IoT设备（例如智能扬声器）上进行了测试，但是到目前为止，发布的这些产品还没有在市场上使用Fuchsia。
+
+
+
+The company has released a [technical roadmap](https://fuchsia.dev/fuchsia-src/contribute/roadmap) for Fuchsia, but it doesn’t give anything away.
+
+The roadmap mentions things like “a driver framework for updating the kernel independently of the drivers” and the “Fuchsia Interface **Definition** Language,” which suggests the project is quite far from being production-ready.
+
+> 该公司已经发布了针对Fuchsia的技术路线图，但没有透露任何内容。
+>
+> 该路线图提到了诸如“独立于驱动程序来更新内核的驱动程序框架”和“ Fuchsia接口定义语言”之类的东西，这表明该项目还远远不能投入生产。
+
+
+
+You can head on over to [Fuchsia.dev](http://fuchsia.dev/) to grab the source code and learn how to set up an emulator if you’re interested in helping to build… whatever this is.
+
+> 如果您有兴趣帮助构建……，那么您可以直接访问Fuchsia.dev以获取源代码并学习如何设置模拟器。
+
+
+
+#### 重点词汇
+
+
+
+**Fuchsia**
+
+> - /ˈfjuːʃə/
+>
+>   灯笼海棠（由Google公司开发的继Android和Chrome OS之后的第三个系统） 
+
+
+
+**underlying**
+
+> - /ˌʌndərˈlaɪɪŋ/ 
+>
+>   adj. 潜在的；根本的；在下面的；优先的
+>
+>   v. 放在…的下面；为…的基础；优先于（underlie的ing形式）
+
+
+
+**revealing** 
+
+> - /rɪˈviːlɪŋ/ 
+>
+>   adj. 透露真情的；有启迪作用的；袒胸露肩的
+>
+>   v. 揭示；展现（reveal的ing形式）
+
+
+
+**guesswork**
+
+> - /ˈɡeswɜːrk/ 
+>
+>   n. 猜测；臆测；凭猜测所作之工作 
+
+
+
+**architecture**
+
+> - /ˈɑːrkɪtektʃər/
+>
+>   n. 建筑学；建筑风格；建筑式样；架构 
+
+
+
+**evolve**
+
+> -  /ɪˈvɑːlv/ 
+>
+>   vt. 发展；进化；使逐步形成；推断出
+>
+>   vi. 发展，进展；进化；逐步形成
+
+
+
+**relatively constant**
+
+> 相对稳定的 
+
+
+
+**repository**
+
+> - /rɪˈpɑːzətɔːri/
+>
+>   n. 贮藏室，仓库；知识库；智囊团 
+
+
+
+**tight-lipped**
+
+> adj. 守口如瓶的；紧闭嘴巴的；寡言的 
+
+
+
+ **governance**
+
+> - /ˈɡʌvərnəns/ 
+>
+>    n. 管理；统治；支配 
+
+
+
+**strategic**
+
+> - /strəˈtiːdʒɪk/ 
+>
+>   adj. 战略上的，战略的 
+
+
+
+**IoT**
+
+> abbr. 物联网（Internet of Things） 
+
+
+
+**roadmap**
+
+> - /'rəudmæp/
+>
+>   n. 路标 
+
+
+
+**Definition**
+
+> - /ˌdefɪˈnɪʃn/ 
+>
+>   n. 定义；[物] 清晰度；解说 
+
+
+
+**emulator**
+
+> - /ˈemjuleɪtər/
+>
+>   n. 仿真器，模拟器；竞争者 
