@@ -721,3 +721,72 @@ You can head on over to [Fuchsia.dev](http://fuchsia.dev/) to grab the source co
 > - /ˈemjuleɪtər/
 >
 >   n. 仿真器，模拟器；竞争者 
+
+
+
+### 7th
+
+#### 《阅读开源技术官网篇》--Spring—01
+
+##### Why Spring
+
+
+
+Spring makes programming Java quicker, easier, and safer for everybody. Spring’s focus on speed, **simplicity**, and **productivity** has made it the [world's most popular](https://snyk.io/blog/jvm-ecosystem-report-2018-platform-application/) Java framework. 
+
+> Spring使每个人都可以更快，更轻松和更安全地进行Java编程。 Spring对速度，简单性和生产率的关注使其成为世界上最受欢迎的Java框架。
+
+
+
+“We use a lot of the tools that come with the Spring framework and reap the benefits of having a lot of **the out of the box** solutions, and not having to worry about writing a ton of additional code—so that really saves us some time and energy.” 
+
+> “我们使用了Spring框架随附的许多工具，并获得了许多现成的解决方案的好处，而不必担心编写大量额外的代码-这样确实为我们节省了一些时间 和能量。”
+
+
+
+**Spring is everywhere**
+
+Spring’s flexible libraries are trusted by developers all over the world. Spring delivers **delightful experiences** to millions of end-users every day—whether that’s [streaming TV](https://medium.com/netflix-techblog/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0), [connected cars](https://pivotal.io/big-data/press-release/mercedes-benz-teams-with-pivotal-to-bring-connected-car-app-to-life), [online shopping](https://tech.target.com/2018/12/18/spring-feign.html), or countless other **innovative** solutions. Spring also has contributions from all the big names in tech, including Alibaba, Amazon, Google, Microsoft, and more. 
+
+> Spring的灵活库受到全世界开发人员的信任。 无论是流媒体电视，联网汽车，在线购物还是无数其他创新解决方案，Spring每天都为数百万终端用户带来令人愉悦的体验。 Spring还得到了包括阿里巴巴，亚马逊，谷歌，微软等在内的所有科技巨头的贡献。  
+
+
+
+**Spring is  flexible **
+
+Spring’s flexible and **comprehensive** set of extensions and third-party libraries let developers build almost any application imaginable. At its core, Spring Framework’s [Inversion of Control (IoC)](https://en.wikipedia.org/wiki/Inversion_of_control) and [Dependency Injection (DI)](https://en.wikipedia.org/wiki/Dependency_injection) features provide the **foundation** for a wide-ranging set of features and **functionality**. Whether you’re building secure, **reactive**, cloud-based **microservices** for the web, or complex streaming data flows for the enterprise, Spring has the tools to help. 
+
+> Spring灵活而全面的一组扩展程序和第三方库使开发人员可以构建几乎任何可以想象的应用程序。 Spring Framework的核心是控制反转（IoC）和依赖注入（DI）功能，为广泛的功能集奠定了基础。 无论您是为Web构建安全的，响应式的，基于云的微服务，还是为企业构建复杂的流数据流，Spring都可以提供帮助的工具。
+
+
+
+**Spring is productive**
+
+[Spring Boot](https://spring.io/guides/gs/spring-boot/) **transforms** how you **approach** Java programming tasks, **radically** **streamlining** your experience. Spring Boot combines **necessities** such as an application context and an auto-configured, embedded web server to make [microservice](https://spring.io/microservices) development a **cinch**. To go even faster, you can combine Spring Boot with Spring Cloud’s rich set of supporting libraries, servers, patterns, and templates, to safely deploy entire microservices-based **architectures** into the [cloud](https://spring.io/cloud), in **record time**. 
+
+> Spring Boot改变了您处理Java编程任务的方式，从根本上简化了您的体验。 Spring Boot结合了诸如应用程序上下文和自动配置的嵌入式Web服务器之类的必需品，从而使微服务开发变得轻而易举。 为了更快地运行，您可以将Spring Boot与Spring Cloud丰富的支持库，服务器，模式和模板集结合起来，以在创纪录的时间内将整个基于微服务的架构安全地部署到云中。
+
+
+
+**Spring is fast**
+
+Our engineers care deeply about performance. With Spring, you’ll notice fast startup, fast shutdown, and **optimized** **execution**, **by default**. Increasingly, Spring projects also support the [reactive](https://spring.io/reactive) (nonblocking) programming model for even greater efficiency. Developer productivity is Spring’s superpower. Spring Boot helps developers build applications with ease and with far less **toil** than other competing **paradigms**. Embedded web servers, auto-configuration, and “fat jars” help you get started quickly, and innovations like [LiveReload in Spring DevTools](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-devtools-livereload) mean developers can **iterate** faster than ever before. You can even start a new Spring project in seconds, with the Spring Initializer at [start.spring.io](https://start.spring.io/). 
+
+> 我们的工程师非常关心性能。 使用Spring，默认情况下您会注意到快速启动，快速关闭和优化的执行。 Spring项目也越来越多地支持反应式（非阻塞）编程模型，以提高效率。 开发人员的生产力是Spring的超级大国。 Spring Boot可以帮助开发人员轻松构建应用程序，并且比其他竞争范例所花费的劳动更少。 嵌入式Web服务器，自动配置和“fat jars”可帮助您快速入门，而Spring DevTools中的LiveReload等创新意味着开发人员可以比以往更快地进行迭代。 您甚至可以在几秒钟内通过start.spring.io上的Spring Initializr启动一个新的Spring项目。
+
+
+
+**Spring is Secure**
+
+Spring has a **proven** track record of dealing with security issues quickly and responsibly. The Spring committers work with security **professionals** to **patch** and test any reported **vulnerabilities**. Third-party dependencies are also monitored closely, and regular updates are issued to help keep your data and applications as safe as possible. In addition, [Spring Security](https://spring.io/projects/spring-security) makes it easier for you to **integrate** with industry-standard security schemes and deliver **trustworthy** solutions that are secure by default. 
+
+> Spring在快速，负责任地处理安全问题方面拥有良好的记录。 Spring提交者与安全专家合作，修补和测试所有报告的漏洞。 第三方依存关系也受到密切监视，并且会定期发布更新以帮助确保您的数据和应用程序尽可能安全。 此外，Spring Security使您可以更轻松地与行业标准安全方案集成，并提供默认情况下安全的可信赖解决方案。
+
+
+
+**Spring is supportive**
+
+The Spring community is **enormous**, global, **diverse**, and spans folks of all ages and **capabilities**, from complete beginners to **seasoned** pros. No matter where you are on your journey, you can find the support and resources you need to get you to the next level: quickstarts, **guides & tutorials**, videos, meetups, support, or even formal training and **certification**.
+
+> Spring社区是一个庞大，全球化，多元的社区，涵盖了从完全的初学者到经验丰富的职业人士的各个年龄段和能力的人们。 无论您在旅途中的何处，都可以找到将您带入新高度所需的支持和资源：快速入门，指南和教程，视频，聚会，支持，甚至是正式的培训和认证。
+
