@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./
+2020typora-root-url: ./
 typora-copy-images-to: mdImage
 ---
 
@@ -790,3 +790,88 @@ The Spring community is **enormous**, global, **diverse**, and spans folks of al
 
 > Spring社区是一个庞大，全球化，多元的社区，涵盖了从完全的初学者到经验丰富的职业人士的各个年龄段和能力的人们。 无论您在旅途中的何处，都可以找到将您带入新高度所需的支持和资源：快速入门，指南和教程，视频，聚会，支持，甚至是正式的培训和认证。
 
+
+
+
+
+### 21th
+
+#### Xbox致力于改善残障人士的游戏体验
+
+![20210221](.\mdImage\20210221.jpg)
+
+Microsoft is launching a new initiative which enables game developers to send their PC and Xbox titles in to be analysed by accessibility experts.
+
+> 微软正在推出一项新的举措，使游戏开发者能够将他们的PC和Xbox标题发送给无障碍专家进行分析。
+
+
+
+“Where issues are found, they are noted with reproduction steps, screenshots, and other information to help the developer understand what aspect of a given experience may be challenging for certain gamers with disabilities,” explained Brannon Zahand, senior program manager of gaming accessibility at Xbox.
+
+> "在发现问题的地方，会用重现步骤、截图和其他信息来记录这些问题，以帮助开发者了解特定体验的哪些方面可能会对某些残障玩家造成挑战，"Xbox游戏无障碍高级项目经理Brannon Zahand解释道。
+
+
+
+Xbox has been on a quest to improve the gaming experience for people with disabilities in recent years.
+
+> 近年来，Xbox一直在努力改善残障人士的游戏体验。
+
+
+
+In early-2019, Microsoft launched the Xbox Adaptive Controller which gained rave reviews for quite literally changing the game for people with disabilities.
+
+> 在2019年初，微软推出了Xbox自适应控制器，获得了一致好评，因为它相当程度上改变了残障人士的游戏。
+
+
+
+Microsoft has continually updated its Xbox Accessibility Guidelines (XAGs) with best practices for game developers to ensure as many people as possible can access and enjoy their hard work.
+
+> 微软持续更新了Xbox无障碍指南（XAGs），为游戏开发者提供了最佳实践，以确保尽可能多的人可以访问并享受他们的辛勤工作。
+
+
+
+The XAGs were most recently updated just two days ago (as of writing) and are developed in partnership with industry experts and members of the gaming and disability community.
+
+> XAGs最近一次更新是在两天前（截至发稿），是与行业专家以及游戏和残障人士社区成员合作开发的。
+
+
+
+Games submitted for evaluation as part of the new accessibility testing initiative will be trialled by gamers with disabilities.
+
+> 作为新的无障碍测试计划的一部分，提交评估的游戏将由残疾玩家进行试用。
+
+
+
+“Perhaps the most important aspect of the program, however, is the inclusion of gamers with disabilities as part of the testing project,” Zahand said.
+
+> "然而，也许该计划最重要的方面是将残疾游戏玩家纳入测试项目的一部分，"Zahand说。
+
+
+
+“Every test pass includes members of the Gaming & Disability Community to not only run test cases against games, but to provide their feedback and insights as well.”
+
+> "每一个测试通行证都包括游戏与残疾社区的成员，不仅要针对游戏运行测试案例，还要提供他们的反馈和见解。"
+
+
+
+According to the ESA Foundation – which harnesses the collective power of the video game industry to create positive social impact in communities – says there are approximately 46 million gamers with disabilities in the US alone.
+
+> 根据ESA基金会--该基金会利用视频游戏行业的集体力量在社区中创造积极的社会影响--表示，仅在美国就有大约4600万残疾游戏玩家。
+
+
+
+Aside from helping to make a positive impact on people’s lives, ensuring your games can be appreciated by everyone opens up more revenue opportunities.
+
+> 除了帮助对人们的生活产生积极影响外，确保你的游戏能够被每个人欣赏，还能开辟更多的收入机会。
+
+
+
+Microsoft says its work isn’t done on the initiative and will continue to take feedback from both developers and the gaming and disability community to improve it further.
+
+> 微软表示，其在该举措上的工作还没有完成，并将继续接受开发者和游戏及残障人士社区的反馈，以进一步完善该举措。
+
+
+
+“It’s important for us to ensure we are constantly improving and raising the bar for inclusive gaming,” Zahand says.
+
+> "对我们来说，确保我们不断改进和提高包容性游戏的标准是很重要的，"Zahand说。
